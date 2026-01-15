@@ -70,6 +70,5 @@ export default defineConfig({
       title: "Firefox administrator reference",
     }),
   ],
-  site: "https://mozilla.github.io",
-  base: "/enterprise-admin-reference/",
+  site: "https://whd.nonprod.dataops.mozgcp.net",
 });
